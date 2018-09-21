@@ -3,102 +3,102 @@
     "name": "Simple Weather",
     "icons": [
         {
-            "src": "images/favicon.ico",
+            "src": "Images/favicon.ico",
             "sizes": "64x64 32x32 24x24 16x16",
             "type": "image/x-icon"
         },
         {
-            "src": "images/85dcbba3-d2f7-bbe7-6bd2-8e88ae156a71.webPlatform.png",
+            "src": "Images/85dcbba3-d2f7-bbe7-6bd2-8e88ae156a71.webPlatform.png",
             "sizes": "44x44",
             "type": "image/png"
         },
         {
-            "src": "images/d75e2263-9ee6-0283-479b-95d1cf782dd2.webPlatform.png",
+            "src": "Images/d75e2263-9ee6-0283-479b-95d1cf782dd2.webPlatform.png",
             "sizes": "48x48",
             "type": "image/png"
         },
         {
-            "src": "images/e130f1c0-cae4-2b9b-cb65-f1b01f1e6b5f.webPlatform.png",
+            "src": "Images/e130f1c0-cae4-2b9b-cb65-f1b01f1e6b5f.webPlatform.png",
             "sizes": "1240x600",
             "type": "image/png"
         },
         {
-            "src": "images/aaec6b0a-5e2f-1172-0dd4-e6abec1b7134.webPlatform.png",
+            "src": "Images/aaec6b0a-5e2f-1172-0dd4-e6abec1b7134.webPlatform.png",
             "sizes": "300x300",
             "type": "image/png"
         },
         {
-            "src": "images/e40cbcb6-5ada-f989-05eb-e304f612abe1.webPlatform.png",
+            "src": "Images/e40cbcb6-5ada-f989-05eb-e304f612abe1.webPlatform.png",
             "sizes": "150x150",
             "type": "image/png"
         },
         {
-            "src": "images/6d93e27e-b646-fb66-9a62-57c027648bee.webPlatform.png",
+            "src": "Images/6d93e27e-b646-fb66-9a62-57c027648bee.webPlatform.png",
             "sizes": "88x88",
             "type": "image/png"
         },
         {
-            "src": "images/28bb45bf-b2f9-6398-1b55-1d7e9ecd83f3.webPlatform.png",
+            "src": "Images/28bb45bf-b2f9-6398-1b55-1d7e9ecd83f3.webPlatform.png",
             "sizes": "24x24",
             "type": "image/png"
         },
         {
-            "src": "images/51ea6d3d-45c9-4b2e-ec6e-42f2bd0e1672.webPlatform.png",
+            "src": "Images/51ea6d3d-45c9-4b2e-ec6e-42f2bd0e1672.webPlatform.png",
             "sizes": "50x50",
             "type": "image/png"
         },
         {
-            "src": "images/c5d634da-afd2-7419-fac0-5a59d3062186.webPlatform.png",
+            "src": "Images/c5d634da-afd2-7419-fac0-5a59d3062186.webPlatform.png",
             "sizes": "620x300",
             "type": "image/png"
         },
         {
-            "src": "images/bc49632e-35ad-0d67-c4e7-e3887cee0b9d.webPlatform.png",
+            "src": "Images/bc49632e-35ad-0d67-c4e7-e3887cee0b9d.webPlatform.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "images/aa097900-3ab4-1634-52b4-042bfec93b54.webPlatform.png",
+            "src": "Images/aa097900-3ab4-1634-52b4-042bfec93b54.webPlatform.png",
             "sizes": "144x144",
             "type": "image/png"
         },
         {
-            "src": "images/97780a24-f339-1f85-5f6f-c15415b28894.webPlatform.png",
+            "src": "Images/97780a24-f339-1f85-5f6f-c15415b28894.webPlatform.png",
             "sizes": "96x96",
             "type": "image/png"
         },
         {
-            "src": "images/cb57eea9-fb27-baba-16b9-a009882896a7.webPlatform.png",
+            "src": "Images/cb57eea9-fb27-baba-16b9-a009882896a7.webPlatform.png",
             "sizes": "72x72",
             "type": "image/png"
         },
         {
-            "src": "images/2fad5216-cacc-8cdf-d68f-146d463a3b89.webPlatform.png",
+            "src": "Images/2fad5216-cacc-8cdf-d68f-146d463a3b89.webPlatform.png",
             "sizes": "36x36",
             "type": "image/png"
         },
         {
-            "src": "images/5df97d99-d7a3-d6fc-813d-eee4311bafe0.webPlatform.png",
+            "src": "Images/5df97d99-d7a3-d6fc-813d-eee4311bafe0.webPlatform.png",
             "sizes": "1024x1024",
             "type": "image/png"
         },
         {
-            "src": "images/af015783-f305-0ba6-b1cc-7201da27bc66.webPlatform.png",
+            "src": "Images/af015783-f305-0ba6-b1cc-7201da27bc66.webPlatform.png",
             "sizes": "180x180",
             "type": "image/png"
         },
         {
-            "src": "images/101d4819-5dfa-b5d1-1013-6bfdbb782c32.webPlatform.png",
+            "src": "Images/101d4819-5dfa-b5d1-1013-6bfdbb782c32.webPlatform.png",
             "sizes": "152x152",
             "type": "image/png"
         },
         {
-            "src": "images/fc4af1e0-a50f-a091-3912-818285408741.webPlatform.png",
+            "src": "Images/fc4af1e0-a50f-a091-3912-818285408741.webPlatform.png",
             "sizes": "120x120",
             "type": "image/png"
         },
         {
-            "src": "images/9f571fb8-f73f-d969-b2e2-cbb59e1058c5.webPlatform.png",
+            "src": "Images/9f571fb8-f73f-d969-b2e2-cbb59e1058c5.webPlatform.png",
             "sizes": "76x76",
             "type": "image/png"
         }
