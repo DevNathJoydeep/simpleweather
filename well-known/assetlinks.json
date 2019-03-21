@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.pumnqt",
+      "sha256_cert_fingerprints": ["00:9B:F9:85:AF:5A:A3:A7:15:65:0F:C2:DF:A8:41:8A:DC:C9:3A:FA:8C:75:F8:3A:EF:94:BE:17:61:6C:DF:3A"]
+    }
+  }
+]
